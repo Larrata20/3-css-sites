@@ -1,0 +1,48 @@
+.adp2{
+  margin-bottom: 20px;
+}
+
+.adp3{
+  width: 60%;
+}
+
+img[class^="adp"]{
+  width:100%;
+}
+
+
+@media (min-width:601px)  {
+  .btn-widt{
+    width:20%;
+  }
+}
+@media (max-width:600px)  {
+  .btn-widt{
+    width:24%;
+    font-size: 12px;
+  }
+}
+
+.img3{
+  width: 50%;
+  margin-top: 10px;
+}
+
+.cursed{
+    background-image: url('http://static.asiawebdirect.com/m/phuket/portals/kosamui-com/homepage/beaches/pagePropertiesImage/samui-beaches.jpg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+    background-size: 100%;
+    background-blend-mode:soft-light;
+}
+
+.back1{
+  background-color: lightblue;
+  opacity:0.9;
+}
+
+.back2{
+  background-color:lightgreen;
+  opacity:0.9;
+}

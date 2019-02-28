@@ -1,0 +1,11 @@
+.cursed{
+    background-image: url('http://static.asiawebdirect.com/m/phuket/portals/kosamui-com/homepage/beaches/pagePropertiesImage/samui-beaches.jpg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+    background-size: 100%;
+}
+
+.blur{
+  opacity:0.9;
+}
